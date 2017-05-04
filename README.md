@@ -7,4 +7,4 @@ To run the program:
 
 How the program works
 
-The program shows the database in a table format. The user can click the edit button on any of the entries to edit the database. The user can then either query the database by entering the automobile id then clicking the query button. Once the query button is clicked, the results are stored in the textbox fields and can be easily edited and updated. The user can also add new entries by leaving the automobile id field blank and entering the other fields and pressing save.
+The program shows the database in a table format. The user can click the edit button on any of the entries to edit the database. The user can then query the database by entering the automobile id then clicking the query button. Once the query button is clicked, the results are shown in the textbox fields and can be easily edited and updated by clicking the save button. The user can also add new entries by leaving the automobile id field blank and entering the other required fields and clicking save.
